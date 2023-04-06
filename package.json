@@ -1,0 +1,19 @@
+{
+  "name": "phase-1-independent-project",
+  "version": "1.0.0",
+  "description": "Book Management System",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Book",
+    "Filter",
+    "Add"
+  ],
+  "author": "jeromesaka",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}

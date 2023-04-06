@@ -1,0 +1,36 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "name": "Book 1",
+        "serial_number": "ISBN0001",
+        "author": "James Sports",
+        "description": "What the book is about",
+        "is_favourite": false
+      },
+      {
+        "id": 2,
+        "name": "Book 2",
+        "serial_number": "ISBN0002",
+        "author": "James Sports2",
+        "description": "What the book is about2",
+        "is_favourite": true
+      },
+      {
+        "id": 3,
+        "name": "Book 3",
+        "serial_number": "ISBN0003",
+        "author": "James Sports3",
+        "description": "What the book is about3",
+        "is_favourite": true
+      },
+      {
+        "id": 4,
+        "name": "Book 5",
+        "serial_number": "Paulo Mancini",
+        "author": "IBN000069",
+        "description": "Test book",
+        "is_favourite": false
+      }
+    ]
+  }
