@@ -1,7 +1,7 @@
 
 
-const base_url = `https://antonioomodho.github.io/Phase-1-Independent-Project/data.json`
-//const base_url = "http://localhost:3000/books"
+
+const base_url = "http://localhost:3000/books"
 //on load show login page
 function on_load(){
 document.getElementById("register").style.display = "none";
